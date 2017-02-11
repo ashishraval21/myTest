@@ -20,70 +20,70 @@ sfsjbfjksdvfkjsvdfkjvsdkjfvsdfkjskjv
 
 
 
-Ashish Raval on Testing Branch
+Ashish Raval on Testing Branch ------------------------------------------------
          "userId":"2d22dc86bd483a2d",
          "email":"ashish@uninstall.io"
       },
-      "os":{
+      "os":{\
          "name":"Android",
          "version":"5.1"
       },
       "wifi_details":{
          "wifi_bss_id":"4a:d9:e7:5f:26:2b",
-         "wifi_ss_id":"\"uninstallrocks\"",
-         "wifi_mac_address":"34:bb:26:15:82:9f"
-      },
-      "timezone":"Asia/Calcutta",
-      "screen":{
-         "density":1.5,
-         "width":540,
-         "height":888
-      },
-      "userAgent":"Dalvik/2.1.0 (Linux; U; Android 5.1; XT1022 Build/LPC23.13-34.8)",
+         "wif\i_ss_id":"\"uninstallrocks\"",
+         "wifi\_mac_address":"34:bb:26:15:82:9f"
+      },\
+      "ti\mezone":"Asia/Calcutta",
+      "scr\een":{
+         "d\ensity":1.5,
+         "wi\dth":540,
+         "hei\ght":888
+      },\
+      "us\erAgent":"Dalvik/2.1.0 (Linux; U; Android 5.1; XT1022 Build/LPC23.13-34.8)",
       "locale":"en-GB",
-      "network":{
-         "wifi":true,
-         "carrier":"",
+      "net\work":{
+         "w\ifi":true,
+         "ca\rrier":"",
          "bluetooth":false,
-         "cellular":false
-      },
-      "library":{
-         "name":"analytics-android",
-         "version":""
-      },
-      "cell_details":{
-         "network_operator":"",
-         "phone_type":"1",
-         "sim_operator":"",
-         "sim_country_iso":"",
-         "imei_number":"359299051886757",
-         "network_operator_name":"",
-         "cell_info":"[CellInfoGsm:{mRegistered=YES mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=404 mMnc=86 mLac=51010 mCid=5532} CellSignalStrengthGsm: ss=31 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=404 mMnc=86 mLac=51010 mCid=18882} CellSignalStrengthGsm: ss=28 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=404 mMnc=86 mLac=51010 mCid=5531} CellSignalStrengthGsm: ss=27 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=0 mMnc=0 mLac=0 mCid=-1} CellSignalStrengthGsm: ss=21 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=404 mMnc=86 mLac=51010 mCid=18883} CellSignalStrengthGsm: ss=15 ber=99}]",
-         "sim_state":"1",
-         "net_country_iso":""
-      },
+         "cel\lular":false
+      },\
+      "li\brary":{
+         "\name":"analytics-android",
+         "v\ersion":""
+      },\
+      "ce\ll_details":{
+         "\network_operator":"",
+         "p\hone_type":"1",
+         "si\m_operator":"",
+         "sim\_country_iso":"",
+         "imei\_number":"359299051886757",
+         "netwo\rk_operator_name":"",
+         "cell_i\nfo":"[CellInfoGsm:{mRegistered=YES mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=404 mMnc=8\6 mLac=51010 mCid=5532} CellSignalStrengthGsm: ss=31 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem\_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=404 mMnc=86 mLac=51010 mCid=18882} CellSignalStrengthGsm: ss=28 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ m\Mcc=404 mMnc=86 mLac=51010 mCid=5531} CellSignalStrengthGsm: ss=27 ber=99}, CellInfoGsm:{mRegistered=NO mTim\eStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc=0 mMnc=0 mLac=0 mCid=-1} CellSignalStrengthGsm\: ss=21 ber=99}, CellInfoGsm:{mRegistered=NO mTimeStampType=oem_ril mTimeStamp=1146320885600ns CellIdentityGsm:{ mMcc\=404 mMnc=86 mLac=51010 mCid=18883} CellSignalStrengthGsm: ss=15 ber=99}]",
+         "sim_state":"1\",
+         "net_country_is\\o":""
+      },\
       "location":{
-         "latitude":12.9962609,
-         "longitude":77.6609103
-      },
-      "device":{
-         "id":"2d22dc86bd483a2d",
-         "manufacturer":"motorola",
-         "model":"XT1022",
-         "name":"condor_umtsds"
+         \"latitude":12.9962609,
+         "\longitude":77.6609103
+      },\
+      "de\vice":{
+         "\id":"2d22dc86bd483a2d",
+         "m\\anufacturer":"motorola",
+         "mod\el":"XT1022",
+         "name\":"condor_umtsds"
       }
-   },
-   "anonymousId":"f395164a-5ddc-49f3-8c77-24bdff50e8e9",
-   "userId":"2d22dc86bd483a2d",
-   "timestamp":"2016-02-10T15:04:03+0530",
-   "integrations":{
-      "All":true,
-      "Segment.io":true
-   },
-   "traits":{
-      "anonymousId":"f395164a-5ddc-49f3-8c77-24bdff50e8e9",
-      "name":"Ashish",
-      "userId":"2d22dc86bd483a2d",
-      "email":"ashish@uninstall.io"
-   }
-}
+   },\
+   "an\onymousId":"f395164a-5ddc-49f3-8c77-24bdff50e8e9",
+   "use\rId":"2d22dc86bd483a2d",
+   "time\stamp":"2016-02-10T15:04:03+0530",
+   "integ\rations":{
+      "All\":true,
+      "Segm\ent.io":true
+   },\
+   "tr\aits":{
+      "\anonymousId":"f395164a-5ddc-49f3-8c77-24bdff50e8e9",
+      "n\ame":"Ashish",
+      "us\erId":"2d22dc86bd483a2d",
+      "ema\\il":"ashish@uninstall.io"
+   }\
+}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
